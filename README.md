@@ -1,7 +1,7 @@
 # Experiment 8: Reproducing an Image Using Prompts for Image Generation
 
 
-## Date: 06-11-2025
+## Date: 09-09-2025
 
 ## Reg. No.: 212222060073
 
